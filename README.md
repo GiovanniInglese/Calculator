@@ -1,0 +1,1 @@
+This project was a simple HTML and CSS project in creating a functional calculator.  The caluclator itself includes basic functions of addition, subtraction, multiplication, and division without limits.  The caculator has the ability to delete numbers and clear the number screen as well and has the ability to turn larger numbers into simplified exponential values.  
